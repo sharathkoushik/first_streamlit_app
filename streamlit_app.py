@@ -1,1 +1,1 @@
-Print("Helllo World");
+print("Helllo World");
