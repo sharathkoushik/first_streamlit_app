@@ -1,1 +1,1 @@
-print("Helllo World")
+streamlit.text('Helllo World')
